@@ -3,7 +3,6 @@
 - 👨‍💻 I'm currently working at Loft as a Senior Software Engineer
 - ❤️ I love and work with Flutter, Laravel, PHP, Node.js, Express, NestJS, Livewire and Vue.js.
 - 👯 I'm looking to collaborate on Laravel, Node.js and Flutter projects
-- 🤔 I'm trying to understand why the stats below don't count all PRs, issues, stars and top languages (private repo and org?!)
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/samuelcecilio)
   - [Instagram](https://www.instagram.com/ceciliosamuel)
