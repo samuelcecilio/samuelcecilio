@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently working at Loft as a Senior Software Engineer
 - ❤️ I love and work with Flutter, Laravel, PHP, Node.js, Express, NestJS, Livewire and Vue.js.
-- 👯 I'm looking to collaborate on Laravel, Node.js and Flutter projects
+- 👯 I'm looking to collaborate on Flutter, Laravel and Node.js projects
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/samuelcecilio)
   - [Instagram](https://www.instagram.com/ceciliosamuel)
