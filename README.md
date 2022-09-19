@@ -11,5 +11,5 @@
 
 [![GitHub Stats](https://github-readme-stats-samuelcecilio.vercel.app/api?username=samuelcecilio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-samuelcecilio.app/api/top-langs/?username=samuelcecilio&layout=compact&theme=cobalt&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-samuelcecilio.vercel.app/api/top-langs/?username=samuelcecilio&layout=compact&theme=cobalt&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
