@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🤙
 
 - 👨‍💻 I'm currently working at Loft as a Senior Software Engineer
 - ❤️ I love and work with Flutter, Laravel, PHP, Node.js, Express, NestJS, Livewire and Vue.js.
