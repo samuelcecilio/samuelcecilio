@@ -5,7 +5,6 @@
 - 👯 I'm looking to collaborate on Flutter, Laravel and Node.js projects
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/samuelcecilio)
-  - [Instagram](https://www.instagram.com/ceciliosamuel)
 
 <!--
 ## Stats
