@@ -1,16 +1,6 @@
 # Hi there 🤙
 
 - 👨‍💻 I'm currently working at Loft as a Staff Software Engineer
-- ❤️ I love and work with Flutter, Laravel, PHP, Node.js, Express, NestJS, Livewire and Vue.js.
-- 👯 I'm looking to collaborate on Flutter, Laravel and Node.js projects
+- ❤️ I love and work with Flutter, Laravel, PHP, Node.js, NestJS, Next.js, Livewire, React, and Vue.js.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/samuelcecilio)
-
-<!--
-## Stats
-
-[![GitHub Stats](https://github-readme-stats-samuelcecilio.vercel.app/api?username=samuelcecilio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-samuelcecilio.vercel.app/api/top-langs/?username=samuelcecilio&layout=compact&theme=cobalt&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
----
--->
